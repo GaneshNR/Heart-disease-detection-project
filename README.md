@@ -1,4 +1,3 @@
-![Output_image](https://user-images.githubusercontent.com/107210050/173307884-01d9c1f8-d486-4f12-9189-293467bd07eb.png)
 ** For detailed explanation of overview of this project, please refer to heart_project_overview.pdf **
 
 ***** Project overview stepwise *****
@@ -18,3 +17,4 @@ Finalized model with the highest accuracy - Random forest
 Deployment with streamlit code using Pickle -- # Please refer to project.py file for the code.
 
 Output of the project -
+![Output_image](https://user-images.githubusercontent.com/107210050/173307884-01d9c1f8-d486-4f12-9189-293467bd07eb.png)
