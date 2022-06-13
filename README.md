@@ -20,7 +20,7 @@ Finalized model with the highest accuracy - Random forest
 Deployment with streamlit code using Pickle -- # Please refer to project.py file for the code.
 
 
-Output of the project
+Output of the project-
 
 ![Output_image](https://user-images.githubusercontent.com/107210050/173321083-a9a19c30-c7c4-4472-acd3-eb8a9be75232.png)
 
